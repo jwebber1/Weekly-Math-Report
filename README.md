@@ -1,2 +1,2 @@
 # Weekly-Math-Report
-Application used to format a weekly math report
+A simple application used to reformat a weekly math report for my job.
